@@ -10,3 +10,9 @@ D:\Dropbox\SoftUni\1. Advanced CSharp\Team Project - Console Game\Team Allied Ti
 D:\Dropbox\SoftUni\1. Advanced CSharp\Team Project - Console Game\Team Allied Tion\Game\obj\Debug\Snake.csprojResolveAssemblyReference.cache
 D:\Dropbox\SoftUni\1. Advanced CSharp\Team Project - Console Game\Team Allied Tion\Game\obj\Debug\Game.exe
 D:\Dropbox\SoftUni\1. Advanced CSharp\Team Project - Console Game\Team Allied Tion\Game\obj\Debug\Game.pdb
+E:\Users\Stanislav\Documents\Visual Studio 2013\Projects\TeamProjectCSharpSnake_Git_Hub\Team Allied Tion\Game\bin\Debug\Game.exe.config
+E:\Users\Stanislav\Documents\Visual Studio 2013\Projects\TeamProjectCSharpSnake_Git_Hub\Team Allied Tion\Game\obj\Debug\Game.exe
+E:\Users\Stanislav\Documents\Visual Studio 2013\Projects\TeamProjectCSharpSnake_Git_Hub\Team Allied Tion\Game\obj\Debug\Game.pdb
+E:\Users\Stanislav\Documents\Visual Studio 2013\Projects\TeamProjectCSharpSnake_Git_Hub\Team Allied Tion\Game\bin\Debug\Game.exe
+E:\Users\Stanislav\Documents\Visual Studio 2013\Projects\TeamProjectCSharpSnake_Git_Hub\Team Allied Tion\Game\bin\Debug\Game.pdb
+E:\Users\Stanislav\Documents\Visual Studio 2013\Projects\TeamProjectCSharpSnake_Git_Hub\Team Allied Tion\Game\obj\Debug\Snake.csprojResolveAssemblyReference.cache

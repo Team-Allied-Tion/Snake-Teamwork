@@ -11,6 +11,8 @@ namespace MainNamespace
 
         private static void Main()
         {
+            _01Intro.Intro.IntroAnimation();
+            return;
             Console.CursorVisible = false;
             Console.Title = "SNAKE GAME by Team \"ALLIED TION\"";
             //Console.WindowHeight = windowHeight;
