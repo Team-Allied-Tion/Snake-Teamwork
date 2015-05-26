@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\1. Advanced CSharp\Team Project - Console Game\Team Allied Tion\SoundCheck\bin\Debug\SoundCheck.exe.config
+D:\Dropbox\SoftUni\1. Advanced CSharp\Team Project - Console Game\Team Allied Tion\SoundCheck\bin\Debug\SoundCheck.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\Team Project - Console Game\Team Allied Tion\SoundCheck\bin\Debug\SoundCheck.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\Team Project - Console Game\Team Allied Tion\SoundCheck\obj\Debug\SoundCheck.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\Team Project - Console Game\Team Allied Tion\SoundCheck\obj\Debug\SoundCheck.pdb
