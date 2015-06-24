@@ -25,3 +25,6 @@ C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\Team Project - Console Game\Fina
 D:\Dropbox\SoftUni\1. Advanced CSharp\Team Project - Console Game\Final Version\Teamwork\Teamwork\Snake-CSharpAdvanced-Project\Snake-Game\bin\Debug\Snake-Game.exe.config
 D:\Dropbox\SoftUni\1. Advanced CSharp\Team Project - Console Game\Final Version\Teamwork\Teamwork\Snake-CSharpAdvanced-Project\Snake-Game\obj\Debug\Snake-Game.exe
 D:\Dropbox\SoftUni\1. Advanced CSharp\Team Project - Console Game\Final Version\Teamwork\Teamwork\Snake-CSharpAdvanced-Project\Snake-Game\obj\Debug\Snake-Game.pdb
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\Team Project - Console Game\Snake-CSharpAdvanced-Project\Snake-Game\bin\Debug\Snake-Game.exe.config
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\Team Project - Console Game\Snake-CSharpAdvanced-Project\Snake-Game\obj\Debug\Snake-Game.exe
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\Team Project - Console Game\Snake-CSharpAdvanced-Project\Snake-Game\obj\Debug\Snake-Game.pdb
